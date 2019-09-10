@@ -19,3 +19,6 @@ So when the user types in a color, the program uses simple if statements to dete
 
 Additional Color Facts!
 The way hex colors work is simple. The first two values control the amount of red, the middle two control the amount of green, and the last two numbers control the amount of blue (because computers always use a screen, they use the primary colors of light (rgb) instead of the physical primary colors (rby). Oddly enough, yellow is made by mixing red and green (which physically make brown).
+
+
+Dates: 8/30 Began working, 9/2 decided on the color theme and came up with the intial idea, 9/4 downsized the initial idea and began to work on getting the fab to change color, 9/6 finished adding the fully functional text input box, 9/9 finally changed the fab to a regular button and added the database of colors to pick from.
